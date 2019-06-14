@@ -1,0 +1,6 @@
+/node_modules/*
+/generate-ssl-certs-for-local-development/*
+*.crt
+*.csr
+*.cnf
+*.key
